@@ -1,0 +1,15 @@
+console.log("====================================================== ");
+console.log("      BUG REPORTS                                      ");
+console.log("====================================================== ");
+console.log("                                                       ");
+console.log("  - Bug ID: 1                                          ");
+console.log("  - Title : Unable to login with valid credentials     ");
+console.log("  - Steps to reproduce:                                ");
+console.log("    1. Launch url abc.com          ");
+console.log("    2. Enter username              ");
+console.log("    3. Enter password              ");
+console.log("    4. Click on Login button       ");
+console.log("  - Expected Results: User should be able to login.    ");
+console.log("  - Actual Results: User unable be able to login.      ");
+console.log("  - Severity: High                                     ");
+console.log("                                                       ");
