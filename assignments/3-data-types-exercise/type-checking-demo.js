@@ -1,0 +1,16 @@
+console.log("                                                       ");
+console.log("====================================================== ");
+console.log("              TYPE CHECKING DEMO                       ");
+console.log("====================================================== ");
+console.log("                                                       ");
+let totalTests = 10;
+console.log(typeof totalTests);
+let totaTests = 10;
+console.log(typeof totalTest);
+let passRate = 0.6;
+console.log(typeof passRate);
+const testSuiteName= "Login Screen";
+console.log(typeof testSuiteName);
+let allTestsPassed = false;
+console.log(typeof allTestsPassed);
+console.log("====================================================== ");

@@ -1,0 +1,18 @@
+console.log("                                                       ");
+console.log("====================================================== ");
+console.log("              TEST METRICS DASHBOARD                   ");
+console.log("====================================================== ");
+console.log("                                                       ");
+let totaTests = 10;
+console.log("Total Tests: " + totaTests);
+let passTests = 6;
+console.log("Passed Tests: " + passTests);
+let failedTests = 4;
+console.log("Failed Tests: " + failedTests);
+let passRate = 0.6;
+console.log("Pass Rate: " + passRate);
+const testSuiteName= "Login Screen";
+console.log("Test Suite Name: " + testSuiteName);
+let allTestsPassed = false;
+console.log("All Test Passed: " + allTestsPassed);
+console.log("====================================================== ");

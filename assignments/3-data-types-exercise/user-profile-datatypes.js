@@ -1,0 +1,24 @@
+console.log("                                                       ");
+console.log("====================================================== ");
+console.log("              USER PROFILE DATATYPES                   ");
+console.log("====================================================== ");
+console.log("                                                       ");
+let userFirstName = "John";
+let userLastName= "Doe";
+console.log("Name: " + userFirstName + " " + userLastName);
+let userID = 1001;
+console.log("UserID: " + userID);
+let age =28;
+console.log("Age: " + age);
+let userEmail= "john.doe@test.com";
+console.log ("Email: " + userEmail);
+let isActive = true;
+console.log("Is Active: " + isActive);
+let loginCount = 15;  
+console.log("Login Count: " + loginCount);
+let averageScore = 87.5; 
+console.log("Average Score: " + averageScore);
+let hasAccess = true;
+console.log("Has Access: " + hasAccess);
+console.log("====================================================== ");
+
