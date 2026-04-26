@@ -41,12 +41,12 @@ Print formatted output with all data.
 Create `test-metrics-dashboard.js` showing test execution metrics.
 
 **Use these data types:**
-- Total tests (number)
-- Passed tests (number)
-- Failed tests (number)
-- Pass rate (number with decimal)
-- Test suite name (string)
-- All tests passed? (boolean)
+    - Total tests (number)
+    - Passed tests (number)
+    - Failed tests (number)
+    - Pass rate (number with decimal)
+    -Test suite name (string)
+    - All tests passed? (boolean)
 
 ---
 
