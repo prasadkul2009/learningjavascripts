@@ -9,17 +9,28 @@ let password = "********";
 console.log("Password: " + password);
 let email = "   ";
 console.log("Email: " + email);
-if ((username !== "" && password !== "") || email !=="");
+if ((username !== "" && password !== "") || email !=="")
+{
 console.log("✅ Sufficient login credentials");
+} 
+else {
+console.log("❌ Invalid login credentials");
+}
 console.log(" ======================================================");
+
 let username2 = "testuser";
 console.log("UserName: " + username2);
 let password2 = "";
 console.log("Password: " + password2);
 let email2 = "   ";
 console.log("Email: " + email2);
-if ((username2 !== "" && password2!== "") || email2 !=="");
+if ((username2 !== "" && password2!== "") || email2 !=="")
+    {
 console.log("❌ Invalid login credentials");
+}
+else {
+("✅ Sufficient login credentials");
+}
 console.log("======================================================");
 let username3 = "testuser";
 console.log("UserName: " + username3);
@@ -27,7 +38,8 @@ let password3 = "";
 console.log("Password: " + password3);
 let email3 = "test@example.com";
 console.log("Email: " + email3);
-if ((username3 !== "" && password3!== "") || email3 !=="");
+if ((username3 !== "" && password3!== "") || email3 !=="")
 console.log("✅ Sufficient login credentials");
+else ("❌ Invalid login credentials");
 console.log("======================================================");
 
