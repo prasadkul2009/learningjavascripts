@@ -3,17 +3,18 @@ console.log("====================================================== ");
 console.log("              TEST RESPONSE VALIDATOR                  ");
 console.log("====================================================== ");
 console.log("                                                       ");
-let responseTime = 2.5;
+let responseTime = 3;
 function showResults(responseTime , status) {
 
-if (responseTime < 3) {status== "PASSED" (responsetime ==2.5 ) 
+if ((responseTime < 3) status== "PASSED" && responseTime == 3 );    
     {
     console.log("✅ Test Passed");
     }
     }   
     
-    else {status== "FAILED" (responsetime ==2.5 )
+    else {(status== "FAILED" || (responseTime == 3 ))
     console.log("❌ Test Failed");
     }  
 }
-showResults(2.5, "PASSED");
+showResults(3, "PASSED");
+
