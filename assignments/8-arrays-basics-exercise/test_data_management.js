@@ -1,0 +1,13 @@
+console.log("Test Result Tracker");
+let testEmail = ["user1@test.com", "user2@test.com", "user3@test.com"];
+console.log(testEmail);
+console.log(testEmail.length);
+testEmail.push("user4@test.com");
+console.log(testEmail);
+testEmail.unshift("admin@test.com");
+console.log(testEmail);
+testEmail.pop();
+console.log(testEmail);
+testEmail.shift();
+console.log(testEmail);
+console.log(testEmail.length);
