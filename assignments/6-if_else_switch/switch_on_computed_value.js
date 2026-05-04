@@ -1,6 +1,6 @@
 console.log("8a: Switch on a computed value (grade buckets)");
 
-let score =50;
+let score =55;
 switch(Math.floor (score/10)){
     case 10:
     case 9:
