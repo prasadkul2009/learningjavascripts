@@ -62,7 +62,7 @@ Total test cases: 5
 
 ---
 
-## Exercise 1.5: Refactor with for...of Loop
+## Exercise 1.5:   with for...of Loop
 
 **Scenario:** Learn the modern, cleaner way to iterate arrays when you don't need the index.
 
